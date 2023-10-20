@@ -1,0 +1,7 @@
+{
+  "name": "UqudoDemo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

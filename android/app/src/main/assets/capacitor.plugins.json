@@ -16,7 +16,7 @@
 		"classpath": "com.capacitorjs.plugins.statusbar.StatusBarPlugin"
 	},
 	{
-		"pkg": "capacitor-plugin-uqudoid",
+		"pkg": "uqudosdk-capacitor",
 		"classpath": "io.uqudo.sdk.id.capacitor.UqudoIdPlugin"
 	}
 ]

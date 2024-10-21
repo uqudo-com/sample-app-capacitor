@@ -14,5 +14,5 @@ project(':capacitor-keyboard').projectDir = new File('../node_modules/@capacitor
 include ':capacitor-status-bar'
 project(':capacitor-status-bar').projectDir = new File('../node_modules/@capacitor/status-bar/android')
 
-include ':capacitor-plugin-uqudoid'
-project(':capacitor-plugin-uqudoid').projectDir = new File('../../../capacitor-plugin-uqudoid/android')
+include ':uqudosdk-capacitor'
+project(':uqudosdk-capacitor').projectDir = new File('../node_modules/uqudosdk-capacitor/android')
